@@ -21,11 +21,11 @@ const NavBar = () => {
       <div className="inner">
         <a href="#hero" className="logo flex flex-col leading-tight gap-1 relative pl-5">
           <span className="absolute left-0 top-1/2 -translate-y-1/2 w-0.5 h-12 rounded-full bg-gradient-to-b from-cyber via-purple-400 to-[#ff2a6d] shadow-[0_0_10px_rgba(0,245,255,0.5)]" />
-          <span className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-cyber via-purple-300 to-white bg-clip-text text-transparent drop-shadow-[0_0_12px_rgba(0,245,255,0.3)]">
+          <span className="text-xl md:text-4xl font-bold bg-gradient-to-r from-cyber via-purple-300 to-white bg-clip-text text-transparent drop-shadow-[0_0_12px_rgba(0,245,255,0.3)]">
             LIJO DOMINIC
           </span>
-          <span className="text-base md:text-lg font-semibold tracking-wider leading-none" style={{ color: "#00f5ff" }}>Cyber Security Engineer</span>
-          <span className="text-base md:text-lg font-semibold tracking-wider leading-none" style={{ color: "#ff2a6d" }}>IS & IT Auditor</span>
+          <span className="text-[9px] md:text-lg font-semibold tracking-wider leading-none" style={{ color: "#00f5ff" }}>Cyber Security Engineer</span>
+          <span className="text-[9px] md:text-lg font-semibold tracking-wider leading-none" style={{ color: "#ff2a6d" }}>IS & IT Auditor</span>
         </a>
         <nav className="desktop">
           <ul>
